@@ -2,10 +2,8 @@ body{
     margin: 0; padding: 0;
     background: url('../img/icons/icon.png');
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
 }
 .number-button{
 	font-size: 18px;
