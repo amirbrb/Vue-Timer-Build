@@ -1,0 +1,27 @@
+body{
+    margin: 0; padding: 0;
+    background: url('../img/icons/icon.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% 100%;
+}
+.number-button{
+	font-size: 18px;
+}
+
+.button{
+    height: 75px;
+    line-height: 75px;
+    cursor: pointer;
+    border-radius: 9px;
+    background: #FFE4E1;
+    margin: 15px;
+    border: 1px solid black;
+    opacity: 0.3;
+}
+
+.counter-frame{
+	font-family: 'Sofia';
+	font-size: 22px;
+}
